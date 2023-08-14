@@ -17,11 +17,11 @@ Completion Date: January 2021
 Project 4: Communication Engineering Projects
 
 Description: MATLAB-based implementation of communication engineering concepts, including signal processing, modulation, and demodulation techniques. Covers various signal processing scenarios.
-Completion Date: Varies per project
+Completion Date: June 2023
 Project 5: Introduction to Digital Signal Processing Projects
 
 Description: Repository containing projects from the Introduction to Digital Signal Processing course. Demonstrates practical applications of DSP concepts using audio signals.
-Completion Date: Varies per project
+Completion Date: June 2023
 Let's Connect
 
 If you have any questions, suggestions, or collaboration ideas, feel free to reach out. You can connect with me on LinkedIn: https://www.linkedin.com/in/omeremeksiz/
