@@ -1,0 +1,26 @@
+Test Loss: 0.2892646789550781, Test Accuracy: 0.9552238583564758
+
+Classification Report for Three-Class Classification:
+              precision    recall  f1-score   support
+
+      Normal       0.93      0.93      0.93        14
+        Scol       0.97      0.95      0.96        38
+       Spond       0.94      1.00      0.97        15
+
+    accuracy                           0.96        67
+   macro avg       0.95      0.96      0.95        67
+weighted avg       0.96      0.96      0.96        67
+
+Confusion Matrix for Three-Class Classification:
+[[13  1  0]
+ [ 1 36  1]
+ [ 0  0 15]]
+
+Specificity for Normal in Three-Class Classification: 0.5
+
+Specificity for Scol in Three-Class Classification: 0.3333333333333333
+
+Specificity for Spond in Three-Class Classification: 1.0
+
+Accuracy for Three-Class Classification: 0.9552238805970149
+Confusion Matrix saved at: /content/drive/MyDrive/Colab Notebooks/output/confusion_matrix.png
