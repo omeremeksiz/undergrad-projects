@@ -35,7 +35,3 @@ Exploration of various modulated transmissions and their performance analysis us
 ## Tools Used
 - MATLAB
 - Simulink
-
-## Connect
-
-If you have any questions, suggestions, or collaboration ideas, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/omeremeksiz/). 

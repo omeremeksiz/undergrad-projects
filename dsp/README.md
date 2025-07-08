@@ -35,7 +35,3 @@ Advanced features include:
 
 ## Usage
 Each project folder contains its own implementation files and sample audio for testing. Refer to individual project directories for specific instructions.
-
-## Connect
-
-If you have any questions, suggestions, or collaboration ideas, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/omeremeksiz/). 

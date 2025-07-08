@@ -42,5 +42,4 @@ This repository contains various projects completed during my undergraduate stud
 Each project directory contains its own README with specific setup instructions and requirements. Click on the project links above to learn more about each implementation.
 
 ## License
-
-This repository is for educational purposes. Please check individual project directories for specific licensing information. 
+This repository is for educational and research purposes. 

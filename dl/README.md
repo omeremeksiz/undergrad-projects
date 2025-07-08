@@ -38,6 +38,3 @@ Each project directory contains:
 
 ## Getting Started
 Each project has its own README with specific setup instructions and requirements.
-
-## License
-This repository is for educational and research purposes. 
